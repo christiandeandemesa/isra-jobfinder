@@ -12,7 +12,7 @@ body {
   background: white;
 }
 
-/* li {
+li {
   list-style: none;
   cursor: pointer;
   position: relative;
@@ -23,16 +23,17 @@ li:hover::before {
   content: "";
   height: 4px;
   width: 100%;
-  background: #000;
+  background: #286aff;
   right: 0;
+  bottom: -10px;
   color: #286aff;
 }
 
-.icon {
+/* .icon {
   cursor: pointer;
-}
+} */
 
-.card {
+/* .card {
   background: #000;
 } */
 
