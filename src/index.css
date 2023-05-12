@@ -33,7 +33,7 @@ li:hover::before {
   cursor: pointer;
 }
 
-/* .card {
-  background: #000;
-} */
+.card {
+  background: url("/src/assets/alex-lvrs-Md6_qA-BMis-unsplash.jpg");
+}
 
